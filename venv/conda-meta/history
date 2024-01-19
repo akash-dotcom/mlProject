@@ -12,3 +12,164 @@
 +defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
 +defaults/win-64::wheel-0.41.2-py38haa95532_0
 # update specs: ['python=3.8']
+==> 2024-01-19 15:46:48 <==
+# cmd: c:\Users\AKASH\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix e:/mlproject/venv ipykernel -y
+# conda version: 4.10.1
+-defaults/win-64::ca-certificates-2023.12.12-haa95532_0
++conda-forge/noarch::asttokens-2.4.1-pyhd8ed1ab_0
++conda-forge/noarch::backcall-0.2.0-pyh9f0ad1d_0
++conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_0
++conda-forge/noarch::comm-0.2.1-pyhd8ed1ab_0
++conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_0
++conda-forge/noarch::executing-2.0.1-pyhd8ed1ab_0
++conda-forge/noarch::importlib-metadata-7.0.1-pyha770c72_0
++conda-forge/noarch::importlib_metadata-7.0.1-hd8ed1ab_0
++conda-forge/noarch::ipykernel-6.29.0-pyha63f2e9_0
++conda-forge/noarch::ipython-8.12.0-pyh08f2357_0
++conda-forge/noarch::jedi-0.19.1-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_client-8.6.0-pyhd8ed1ab_0
++conda-forge/noarch::matplotlib-inline-0.1.6-pyhd8ed1ab_0
++conda-forge/noarch::nest-asyncio-1.5.9-pyhd8ed1ab_0
++conda-forge/noarch::packaging-23.2-pyhd8ed1ab_0
++conda-forge/noarch::parso-0.8.3-pyhd8ed1ab_0
++conda-forge/noarch::pickleshare-0.7.5-py_1003
++conda-forge/noarch::prompt-toolkit-3.0.42-pyha770c72_0
++conda-forge/noarch::prompt_toolkit-3.0.42-hd8ed1ab_0
++conda-forge/noarch::pure_eval-0.2.2-pyhd8ed1ab_0
++conda-forge/noarch::pygments-2.17.2-pyhd8ed1ab_0
++conda-forge/noarch::python-dateutil-2.8.2-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::stack_data-0.6.2-pyhd8ed1ab_0
++conda-forge/noarch::traitlets-5.14.1-pyhd8ed1ab_0
++conda-forge/noarch::typing_extensions-4.9.0-pyha770c72_0
++conda-forge/noarch::wcwidth-0.2.13-pyhd8ed1ab_0
++conda-forge/noarch::zipp-3.17.0-pyhd8ed1ab_0
++conda-forge/win-64::ca-certificates-2023.11.17-h56e8100_0
++conda-forge/win-64::jupyter_core-4.12.0-py38haa244fe_0
++conda-forge/win-64::libsodium-1.0.18-h8d14728_1
++conda-forge/win-64::python_abi-3.8-2_cp38
++conda-forge/win-64::pywin32-227-py38h294d835_1
++conda-forge/win-64::tornado-6.2-py38h294d835_0
++defaults/win-64::debugpy-1.6.7-py38hd77b12b_0
++defaults/win-64::psutil-5.9.0-py38h2bbff1b_0
++defaults/win-64::pyzmq-25.1.2-py38hd77b12b_0
++defaults/win-64::zeromq-4.3.5-hd77b12b_0
+# update specs: ['ipykernel']
+==> 2024-01-19 23:32:57 <==
+# cmd: C:\Users\AKASH\anaconda3\Scripts\conda-script.py install scikit-learn
+# conda version: 4.10.1
+-conda-forge/win-64::ca-certificates-2023.11.17-h56e8100_0
++defaults/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::threadpoolctl-2.2.0-pyh0d69192_0
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::brotli-python-1.0.9-py38hd77b12b_7
++defaults/win-64::ca-certificates-2023.12.12-haa95532_0
++defaults/win-64::certifi-2023.11.17-py38haa95532_0
++defaults/win-64::cffi-1.16.0-py38h2bbff1b_0
++defaults/win-64::cryptography-41.0.7-py38h89fc84f_0
++defaults/win-64::icc_rt-2022.1.0-h6049295_2
++defaults/win-64::idna-3.4-py38haa95532_0
++defaults/win-64::intel-openmp-2023.1.0-h59b6b97_46320
++defaults/win-64::joblib-1.2.0-py38haa95532_0
++defaults/win-64::mkl-2023.1.0-h6b88ed4_46358
++defaults/win-64::mkl-service-2.4.0-py38h2bbff1b_1
++defaults/win-64::mkl_fft-1.3.8-py38h2bbff1b_0
++defaults/win-64::mkl_random-1.2.4-py38h59b6b97_0
++defaults/win-64::numpy-1.24.3-py38h79a8e48_1
++defaults/win-64::numpy-base-1.24.3-py38h8a87ada_1
++defaults/win-64::platformdirs-3.10.0-py38haa95532_0
++defaults/win-64::pooch-1.7.0-py38haa95532_0
++defaults/win-64::pyopenssl-23.2.0-py38haa95532_0
++defaults/win-64::pysocks-1.7.1-py38haa95532_0
++defaults/win-64::requests-2.31.0-py38haa95532_0
++defaults/win-64::scikit-learn-1.3.0-py38h4ed8f06_1
++defaults/win-64::scipy-1.10.1-py38hdcfc7df_1
++defaults/win-64::tbb-2021.8.0-h59b6b97_0
++defaults/win-64::urllib3-1.26.18-py38haa95532_0
++defaults/win-64::win_inet_pton-1.1.0-py38haa95532_0
+# update specs: ['scikit-learn']
+==> 2024-01-19 23:43:50 <==
+# cmd: C:\Users\AKASH\anaconda3\Scripts\conda-script.py install catboost
+# conda version: 4.10.1
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::font-ttf-dejavu-sans-mono-2.37-hd3eb1b0_0
++defaults/noarch::font-ttf-inconsolata-2.001-hcb22688_0
++defaults/noarch::font-ttf-source-code-pro-2.030-hd3eb1b0_0
++defaults/noarch::font-ttf-ubuntu-0.83-h8b1ccd4_0
++defaults/noarch::fonts-anaconda-1-h8fa9717_0
++defaults/noarch::fonts-conda-ecosystem-1-hd3eb1b0_0
++defaults/noarch::fonttools-4.25.0-pyhd3eb1b0_0
++defaults/noarch::munkres-1.1.4-py_0
++defaults/noarch::python-tzdata-2023.3-pyhd3eb1b0_0
++defaults/win-64::boost-cpp-1.82.0-h59b6b97_2
++defaults/win-64::bottleneck-1.3.5-py38h080aedc_0
++defaults/win-64::brotli-1.0.9-h2bbff1b_7
++defaults/win-64::brotli-bin-1.0.9-h2bbff1b_7
++defaults/win-64::cairo-1.16.0-haedb8bc_5
++defaults/win-64::catboost-1.2-py38haa95532_0
++defaults/win-64::contourpy-1.0.5-py38h59b6b97_0
++defaults/win-64::expat-2.5.0-hd77b12b_0
++defaults/win-64::fontconfig-2.14.1-h9c4af85_2
++defaults/win-64::freetype-2.12.1-ha860e81_0
++defaults/win-64::fribidi-1.0.10-h62dcd97_0
++defaults/win-64::getopt-win32-0.1-h2bbff1b_0
++defaults/win-64::giflib-5.2.1-h8cc25b3_3
++defaults/win-64::glib-2.69.1-h5dc1a3c_2
++defaults/win-64::graphite2-1.3.14-hd77b12b_1
++defaults/win-64::graphviz-2.50.0-h7eca76f_1
++defaults/win-64::gts-0.7.6-h63ab5a1_3
++defaults/win-64::harfbuzz-4.3.0-hb646838_2
++defaults/win-64::icu-73.1-h6c2663c_0
++defaults/win-64::importlib_resources-6.1.1-py38haa95532_1
++defaults/win-64::jpeg-9e-h2bbff1b_1
++defaults/win-64::kiwisolver-1.4.4-py38hd77b12b_0
++defaults/win-64::lcms2-2.12-h83e58a3_0
++defaults/win-64::lerc-3.0-hd77b12b_0
++defaults/win-64::libboost-1.82.0-h3399ecb_2
++defaults/win-64::libbrotlicommon-1.0.9-h2bbff1b_7
++defaults/win-64::libbrotlidec-1.0.9-h2bbff1b_7
++defaults/win-64::libbrotlienc-1.0.9-h2bbff1b_7
++defaults/win-64::libcurl-8.5.0-h86230a5_0
++defaults/win-64::libdeflate-1.17-h2bbff1b_1
++defaults/win-64::libgd-2.3.3-ha43c60c_1
++defaults/win-64::libiconv-1.16-h2bbff1b_2
++defaults/win-64::libpng-1.6.39-h8cc25b3_0
++defaults/win-64::libssh2-1.10.0-he2ea4bf_2
++defaults/win-64::libtiff-4.5.1-hd77b12b_0
++defaults/win-64::libwebp-1.3.2-hbc33d0d_0
++defaults/win-64::libwebp-base-1.3.2-h2bbff1b_0
++defaults/win-64::libxml2-2.10.4-h0ad7f3c_1
++defaults/win-64::lz4-c-1.9.4-h2bbff1b_0
++defaults/win-64::matplotlib-base-3.7.2-py38h4ed8f06_0
++defaults/win-64::numexpr-2.8.4-py38h7b80656_1
++defaults/win-64::openjpeg-2.4.0-h4fc8c34_0
++defaults/win-64::pandas-2.0.3-py38h4ed8f06_0
++defaults/win-64::pango-1.50.7-h78c2152_0
++defaults/win-64::pcre-8.45-hd77b12b_0
++defaults/win-64::pillow-10.0.1-py38h045eedc_0
++defaults/win-64::pixman-0.40.0-h2bbff1b_1
++defaults/win-64::plotly-5.9.0-py38haa95532_0
++defaults/win-64::poppler-22.12.0-h0bf3bde_3
++defaults/win-64::poppler-data-0.4.11-haa95532_1
++defaults/win-64::pyparsing-3.0.9-py38haa95532_0
++defaults/win-64::python-graphviz-0.20.1-py38haa95532_0
++defaults/win-64::pytz-2023.3.post1-py38haa95532_0
++defaults/win-64::tenacity-8.2.2-py38haa95532_0
++defaults/win-64::tk-8.6.12-h2bbff1b_0
++defaults/win-64::xz-5.4.5-h8cc25b3_0
++defaults/win-64::zlib-1.2.13-h8cc25b3_0
++defaults/win-64::zstd-1.5.5-hd43e919_0
+# update specs: ['catboost']
+==> 2024-01-19 23:56:56 <==
+# cmd: C:\Users\AKASH\anaconda3\Scripts\conda-script.py install -c conda-forge xgboost
+# conda version: 4.10.1
+-defaults/win-64::ca-certificates-2023.12.12-haa95532_0
+-defaults/win-64::certifi-2023.11.17-py38haa95532_0
++conda-forge/noarch::certifi-2023.11.17-pyhd8ed1ab_0
++conda-forge/win-64::_py-xgboost-mutex-2.0-cpu_0
++conda-forge/win-64::ca-certificates-2023.11.17-h56e8100_0
++defaults/win-64::libxgboost-1.7.3-hd77b12b_0
++defaults/win-64::py-xgboost-1.7.3-py38haa95532_0
++defaults/win-64::xgboost-1.7.3-py38haa95532_0
+# update specs: ['xgboost']
