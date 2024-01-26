@@ -38,8 +38,10 @@ class DataTransformation:
 
             num_pipeline= Pipeline(
                 steps=[
-                ("imputer",SimpleImputer(strategy="median")),
-                ("scaler",StandardScaler())
+                ("imputer",SimpleImputer(strategy="median")), #The first step in the pipeline is using SimpleImputer to fill missing values 
+                                                                    #in your numerical features with the median of each feature.
+                ("scaler",StandardScaler())  #The second step is using StandardScaler to standardize the numerical features, 
+                                                #ensuring that they have a mean of 0 and a standard deviation of 1.
 
                 ]
             )
